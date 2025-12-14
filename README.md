@@ -1,6 +1,9 @@
 # Rostelecom
-Дипломный проект: реальный кейс компании «Ростелеком Информационные Технологии»  Автоматизированное тестирование страницы https://b2c.passport.rt.ru сайта "Ростелеком".
-При тестировании сайта были написаны: https://docs.google.com/spreadsheets/d/15NNs2P3MSq4MGyz0L0qWMjddMLbcHhbxFMbzr_dwLyY/edit?usp=drive_link
+Дипломный проект: реальный кейс компании «Ростелеком Информационные Технологии»
+
+Автоматизированное тестирование страницы https://b2c.passport.rt.ru сайта "Ростелеком"
+
+При тестировании сайта были написаны: https://docs.google.com/spreadsheets/d/10HMIDvoEKjW6At57U8lvLm3znbNfKOyR-M4bJHpdSlI/edit?usp=sharing
 
 тест-кейсы
 автоматизированные тесты.
