@@ -3,7 +3,7 @@
 
 Автоматизированное тестирование страницы https://b2c.passport.rt.ru сайта "Ростелеком"
 
-При тестировании сайта были написаны: https://docs.google.com/spreadsheets/d/10HMIDvoEKjW6At57U8lvLm3znbNfKOyR-M4bJHpdSlI/edit?usp=sharing
+При тестировании сайта были написаны: https://docs.google.com/spreadsheets/d/15NNs2P3MSq4MGyz0L0qWMjddMLbcHhbxFMbzr_dwLyY/edit?usp=drive_link
 
 тест-кейсы
 автоматизированные тесты.
@@ -23,7 +23,6 @@ faker 33.0.0
 
 Для генерации временного адреса электронной почты использовался сайт www.1secmail.com
 
-Пароли (валидные) спрятаны в файл .env (не выложен здесь). Создать в директории проекта файл .env, в него записать: email = "your valid email" password = "your valid password" phone = 'your phone' login = 'your login'
 
 Проект содержит две папки pages и tests, а так же файлы conftest.py и pytest.ini.
 
